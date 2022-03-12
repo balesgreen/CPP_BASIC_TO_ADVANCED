@@ -56,4 +56,5 @@
 <br>
 
 O resultado de exeução do nosso programa é:
+<br>
 <img src="https://imgur.com/6yvFhQz.png">
