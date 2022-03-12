@@ -46,3 +46,5 @@
  cout << "Hello world" << endl;
 ```
 
+ * Essa parte do nosso código nos mostra o famoso "Olá mundo" que é bastante utilizado como representação do nosso primeiro programa escrito em determinada linguagem de programação. Podemos fazer a anatomia desse pequeno parâmetro de código.
+    * Cout
