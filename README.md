@@ -52,6 +52,8 @@
     * "Hello world" = essa é a mensagem que será imprimida em nossa tela. Essa mensagem foi inserida manualmente, portanto conseguimos inserir valores de variáveis para serem imprimidos em nosso console. (veremos sobre isso logo, logo.)
     * endl = determina o nosso programa que após a execução da mensagem, será pulado uma linha para criar espaçamento entre objetos.
 
+<br>
+<br>
 
 O resultado de exeução do nosso programa é:
 <img src="https://imgur.com/6yvFhQz.png">
