@@ -42,3 +42,7 @@
 
 3 - <code> O motivo é o mesmo da resposta número 1... pois o valor de 0 em C++ tem valor de true e 1 tem valor de false, portanto só saberemos se o nosso código deu certo caso o retorno for igual a 0 e se algo deu errado, caso o retorno for 1.</code>
 
+```cpp
+ cout << "Hello world" << endl;
+```
+
