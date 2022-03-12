@@ -47,13 +47,9 @@
 ```
 
  * Essa parte do nosso código nos mostra o famoso "Olá mundo" que é bastante utilizado como representação do nosso primeiro programa escrito em determinada linguagem de programação. Podemos fazer a anatomia desse pequeno parâmetro de código.
- <br>
     * cout = essa é a função que determina ao nosso programa que iremos imprimir mensagens no nosso console/terminal. Essa mensagem seja ela colocada por nós ou imprimida por meio de um valor de uma variável atribuida por nós.
-    <br>
     * << = Conhecido como operadores de deslocamento bit a bit, informa ao nosso programa que terá uma saída de dados (output).
-    <br>
     * "Hello world" = essa é a mensagem que será imprimida em nossa tela. Essa mensagem foi inserida manualmente, portanto conseguimos inserir valores de variáveis para serem imprimidos em nosso console. (veremos sobre isso logo, logo.)
-    <br>
     * endl = determina o nosso programa que após a execução da mensagem, será pulado uma linha para criar espaçamento entre objetos.
 
 <br>
