@@ -1,5 +1,9 @@
 # C++ BASICO AO AVANÇADO
 
+<strong>A minha ideia nesse livro é transformar a mente dos desenvolvedores C++ em uma fonte de verdade, onde será atribuído uma resposta todos os "por que?" de cada dúvida sobre C++. Esse livro é destinado a todas as pessoas que não renunciaram ao conhecimento e mesmo nessa grande barafunda é que o mundo, ainda conseguem dedicar o próprio tempo para estudar.
+ <br>
+ Ass: Rafael Romão (Mark Security)</strong>
+
  <h3>Tópicos</h3>
  
   * Entendendo a estrutura principal do programa C++
