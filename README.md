@@ -53,7 +53,6 @@
     * endl = determina o nosso programa que após a execução da mensagem, será pulado uma linha para criar espaçamento entre objetos.
 
 <br>
-<br>
 
 O resultado de exeução do nosso programa é:
 <br>
