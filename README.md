@@ -18,3 +18,5 @@
  ```cpp
  using namespace std;
  ```
+ 
+  * A funçao using namespace std é essencial para evitarmos o uso de identificadores como <code>std::</code> em nosso código. Um desses exemplos é o seguinte: <code> std::cout << "Hello world" << std::endl;</code>
