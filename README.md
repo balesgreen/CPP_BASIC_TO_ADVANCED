@@ -8,7 +8,7 @@
  <h3>Tópicos</h3>
  
   * Entendendo a estrutura principal do programa C++
-  * Entendendo as declarações condicionais
+  * Entendendo variáveis e declarações condicionais
 
 
   <h2>Entendendo a estrutura principal do programa C++</h2>
@@ -65,4 +65,4 @@ O resultado de exeução do nosso programa é:
 <img src="https://imgur.com/6yvFhQz.png">
 
 
-  <h2>Entendendo as declarações condicionais</h2>
+  <h2>Entendendo variáveis e declarações condicionais</h2>
