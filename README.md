@@ -99,6 +99,6 @@ Aqui nós estamos imprimindo em nosso terminal/console todas as informações qu
 
 <h3>Técnicas utilizando o cast em C++</h3>
 
-Você pode utilizar algumas formas de mudar valores usando o método de cast. Bom, mas o que seria o Cast? O Cast é basicamente uma função que nos permite mudar valores de variáveis sem que precisamos mudar o seu tipo em seu escopo.
+Você pode utilizar algumas formas de mudar valores usando o método de casting. Bom, mas o que seria o Cast? O Cast é basicamente uma função que nos permite mudar valores de variáveis sem que precisamos mudar o seu tipo em seu escopo.
 
 
