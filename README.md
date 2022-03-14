@@ -79,10 +79,10 @@ O resultado de exeução do nosso programa é:
  ```
 <strong> Bom, vamos compreender então o que cada variável nos quer mostrar e o como elas funcionam.</strong>
 <br>
- * Int - Essa variável é chamada de variável do tipo inteiro. Essa variável sempre será atribuída a valores númericos de 0 (um) ao 9 (nove), ou seja, é determinada somente para números puros (sem pontos e vírgulas.)
- * Float - Essa variável é chamada de variável do tipo ponto flutuante, pois todos os seus valores númericos são trabalhados com pontos, como por exemplo: 3.1415.
- * Char - Essa variável é chamada de variável do tipo caractere, ou seja, utiliza-se letras para se atribuir valores as variáveis do tipo char.
- * String - Essa variável é chamada de variável do tipo referência, ou seja, contém um endereço de objeto. Normalmente é utilizada para expressar mensagens com grandes valores de letras.
- * Bool - Essa variável é chamada de variável do tipo booleana, ou seja, contém apenas duas sintaxes atribuídas a ela: true or false, 1 or 0. Muito eficiente para ser utilizada em situações como tentar validar se algo é verdadeiro ou falso.
- * Double - Essa variável é chamada de variável do tipo double porque ela armazena números de ponto flutuantes, com precisão dupla, ou seja normalmente possui o dobro de capacidade de uma variável do tipo float.
+ * <strong>Int</strong> - Essa variável é chamada de variável do tipo inteiro. Essa variável sempre será atribuída a valores númericos de 0 (um) ao 9 (nove), ou seja, é determinada somente para números puros (sem pontos e vírgulas.)
+ * <strong>Float</strong> - Essa variável é chamada de variável do tipo ponto flutuante, pois todos os seus valores númericos são trabalhados com pontos, como por exemplo: 3.1415.
+ * <strong>Char</strong> - Essa variável é chamada de variável do tipo caractere, ou seja, utiliza-se letras para se atribuir valores as variáveis do tipo char.
+ * <strong>String</strong> - Essa variável é chamada de variável do tipo referência, ou seja, contém um endereço de objeto. Normalmente é utilizada para expressar mensagens com grandes valores de letras.
+ * <strong>Bool</strong> - Essa variável é chamada de variável do tipo booleana, ou seja, contém apenas duas sintaxes atribuídas a ela: true or false, 1 or 0. Muito eficiente para ser utilizada em situações como tentar validar se algo é verdadeiro ou falso.
+ * <strong>Double</strong> - Essa variável é chamada de variável do tipo double porque ela armazena números de ponto flutuantes, com precisão dupla, ou seja normalmente possui o dobro de capacidade de uma variável do tipo float.
 
