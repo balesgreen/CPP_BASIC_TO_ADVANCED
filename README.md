@@ -96,3 +96,5 @@ O resultado de exeução do nosso programa é:
 ```
 
 Aqui nós estamos imprimindo em nosso terminal/console todas as informações que foram atribuídas as nossas variáveis.
+
+<h4>Técnicas utilizando o cast em C++</h4>
