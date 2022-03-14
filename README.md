@@ -86,3 +86,13 @@ O resultado de exeução do nosso programa é:
  * <strong>Bool</strong> - Essa variável é chamada de variável do tipo booleana, ou seja, contém apenas duas sintaxes atribuídas a ela: true or false, 1 or 0. Muito eficiente para ser utilizada em situações como tentar validar se algo é verdadeiro ou falso.
  * <strong>Double</strong> - Essa variável é chamada de variável do tipo double porque ela armazena números de ponto flutuantes, com precisão dupla, ou seja normalmente possui o dobro de capacidade de uma variável do tipo float.
 
+ ```cpp
+    cout << inteiro << endl;
+    cout << flutuante << endl;
+    cout << caracter << endl;
+    cout << strings << endl;
+    cout << TorF << endl;
+    cout << doublen << endl;
+```
+
+Aqui nós estamos imprimindo em nosso terminal/console todas as informações que foram atribuídas as nossas variáveis.
