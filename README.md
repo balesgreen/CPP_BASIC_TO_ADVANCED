@@ -106,5 +106,11 @@ int valor = 100 // Sabemos que essa variável é do tipo inteiro (int) como foi 
 
 cout << valor;  // Aqui estou imprimindo em meu console o valor desta variável que no caso é 10.
 ```
-Caso eu queira quue o valor dela seja retornado como 1.00 sem que eu mude em seu escopo de definição do tipo de variável, eu apenas adiciono a função (float) na frente da variável que está sendo chamada em cout: <code>cout << (float)valor; </code>
+Caso eu queira quue o valor dela seja retornado como 100.000... sem que eu mude em seu escopo de definição do tipo de variável, eu apenas adiciono a função (float) na frente da variável que está sendo chamada em cout: <code>cout << (float)valor; </code>
+
+<img src="https://imgur.com/62IYOXq.png" /> 
+<br>
+<img src="https://imgur.com/Q7xEY1q.png" />
+
+
 
