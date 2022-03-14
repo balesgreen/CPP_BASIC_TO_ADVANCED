@@ -67,4 +67,4 @@ O resultado de exeução do nosso programa é:
 
   <h2>Entendendo variáveis e declarações condicionais</h2>
   
-  <img src="https://imgur.com/VHhYxNl.png" />
+  <img src="https://imgur.com/VHhYxNl.png" height="300" width="300" />
