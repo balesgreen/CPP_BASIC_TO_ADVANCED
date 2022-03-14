@@ -111,6 +111,7 @@ Caso eu queira quue o valor dela seja retornado como 100.000... sem que eu mude 
 <img src="https://imgur.com/62IYOXq.png" /> 
 <br>
 <img src="https://imgur.com/Q7xEY1q.png" />
+<strong>OBS: Aqui eu estou usando o printf() da biblioteca <stdio.h> pois o meu cout estava gerando um bug.</strong>
 
 
 
