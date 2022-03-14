@@ -97,8 +97,14 @@ O resultado de exeução do nosso programa é:
 
 Aqui nós estamos imprimindo em nosso terminal/console todas as informações que foram atribuídas as nossas variáveis.
 
-<h3>Técnicas utilizando o cast em C++</h3>
+<h3>Técnicas utilizando o casting em C++</h3>
 
 Você pode utilizar algumas formas de mudar valores usando o método de casting. Bom, mas o que seria o Cast? O Cast é basicamente uma função que nos permite mudar valores de variáveis sem que precisamos mudar o seu tipo em seu escopo.
 
+```cpp
+int valor = 100 // Sabemos que essa variável é do tipo inteiro (int) como foi explicado logo acima e estou atribuindo a ela um valor que é 10.
+
+cout << valor;  // Aqui estou imprimindo em meu console o valor desta variável que no caso é 10.
+```
+Caso eu queira quue o valor dela seja retornado como 1.00 sem que eu mude em seu escopo de definição do tipo de variável, eu apenas adiciono a função (float) na frente da variável que está sendo chamada em cout: <code>cout << (float)valor; </code>
 
