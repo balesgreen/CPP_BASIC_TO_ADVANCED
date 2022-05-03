@@ -10,6 +10,7 @@
   * Entendendo a estrutura principal do programa C++
   * Entendendo variáveis e declarações condicionais
   * Operadores matemáticos
+  * Operadores lógicos
 
 
   <h2>Entendendo a estrutura principal do programa C++</h2>
@@ -128,5 +129,10 @@ Caso eu queira que o valor dela seja retornado como 100.000... sem que eu mude e
  Resultado:
  <img src="https://imgur.com/bG3YyAw.png">
 
+ 
+# Operadores lógicos
 
-
+ Os operadores lógicos ou operadores aritméticos são elementos que trabalham com operações juntos das variáveis. Os operadores lógicos sempre trabalharão com o corportamento de true (1) ou false (0). Representarei abaixo em códigos e mostrarei as diversas formas de se utilizar esses operadores. Antes disso, vamos conhecer quais são e que funções eles atribuem ao nosso código.
+ 
+ * > (Maior que)
+ 
