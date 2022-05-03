@@ -10,7 +10,6 @@
   * Entendendo a estrutura principal do programa C++
   * Entendendo variáveis e declarações condicionais
   * Operadores matemáticos
-  * Operadores lógicos
 
 
   <h2>Entendendo a estrutura principal do programa C++</h2>
