@@ -134,10 +134,10 @@ Caso eu queira que o valor dela seja retornado como 100.000... sem que eu mude e
 
  Os operadores lógicos ou operadores aritméticos são elementos que trabalham com operações juntos das variáveis. Os operadores lógicos sempre trabalharão com o corportamento de true (1) ou false (0). Representarei abaixo em códigos e mostrarei as diversas formas de se utilizar esses operadores. Antes disso, vamos conhecer quais são e que funções eles atribuem ao nosso código.
  
-<code> > (Maior que...) </code>
-<code> < (Menor que...) </code>
-<code> != (Diferente de) </code>
-<code> >= (Maior ou igual a...) </code>
-<code> <= (Menor ou igual a...) </code>
-<code> == (Igual a...) </code>
+ * <code> > (Maior que...) </code><br>
+ * <code> < (Menor que...) </code><br>
+ * <code> != (Diferente de) </code><br>
+ * <code> >= (Maior ou igual a...) </code><br>
+ * <code> <= (Menor ou igual a...) </code><br>
+ * <code> == (Igual a...) </code><br>
  
