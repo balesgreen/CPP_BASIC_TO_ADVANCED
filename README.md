@@ -125,6 +125,7 @@ Caso eu queira que o valor dela seja retornado como 100.000... sem que eu mude e
  
  Podemos utilizá-los de diversas formas em nosso código, mas como padrão, farei uma pequena calculadora para que seja representado de forma eficaz utilizando todos os operadores matemáticos ao mesmo tempo.
  
+ Resultado:
  <img src="https://imgur.com/bG3YyAw.png">
 
 
