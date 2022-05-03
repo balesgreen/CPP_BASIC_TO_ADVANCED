@@ -9,6 +9,7 @@
  
   * Entendendo a estrutura principal do programa C++
   * Entendendo variáveis e declarações condicionais
+  * Operadores matemáticos
 
 
   <h2>Entendendo a estrutura principal do programa C++</h2>
@@ -106,12 +107,21 @@ int valor = 100 // Sabemos que essa variável é do tipo inteiro (int) como foi 
 
 cout << valor;  // Aqui estou imprimindo em meu console o valor desta variável que no caso é 10.
 ```
-Caso eu queira quue o valor dela seja retornado como 100.000... sem que eu mude em seu escopo de definição do tipo de variável, eu apenas adiciono a função (float) na frente da variável que está sendo chamada em cout: <code>cout << (float)valor; </code>
+Caso eu queira que o valor dela seja retornado como 100.000... sem que eu mude em seu escopo de definição do tipo de variável, eu apenas adiciono a função (float) na frente da variável que está sendo chamada em cout: <code>cout << (float)valor; </code>
 
 <img src="https://imgur.com/62IYOXq.png" /> 
 <br>
 <img src="https://imgur.com/Q7xEY1q.png" />
 <strong>OBS: Aqui eu estou usando o printf() da biblioteca <stdio.h> pois o meu cout estava gerando um bug.</strong>
+ 
+ 
+# Operadores matemáticos
+ 
+ Irei abordar sobre os operadores matemáticos no C++ e isso poderá facilitar a forma de lidar com problemas de multiplicação, divisão, substração e adição no dia a dia de vocês.
+ 
+ **Bom, são quatro operadores matemáticos que existem no C++, fora o operador de restos mas que não será falado nesse tópico.**
+ 
+ <img src="https://imgur.com/60qQ41W.png">
 
 
 
