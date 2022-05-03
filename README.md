@@ -143,3 +143,6 @@ Caso eu queira que o valor dela seja retornado como 100.000... sem que eu mude e
   
 Código (==):<br>
 <img src="https://imgur.com/FHBScuZ.png" >
+ 
+Resultado:<br>
+<img src="https://imgur.com/SaGptdG.png">
