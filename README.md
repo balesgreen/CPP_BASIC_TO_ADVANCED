@@ -141,5 +141,5 @@ Caso eu queira que o valor dela seja retornado como 100.000... sem que eu mude e
  * <code> <= (Menor ou igual a...) </code> Esse operador é utilizado para indicar que se um número for menor ou igual a outro número, então será "true", mas caso for maior ou não igual, será "false".<br>
  * <code> == (Igual a...) </code> Esse operador é utilizado para indicar igualdade a um valor. Caso 1 for igual a 1, então será "true", mas caso 1 não for igual a 1, então será "false".<br>
   
-Código (==):
+Código (==):<br>
 <img src="https://imgur.com/FHBScuZ.png" >
