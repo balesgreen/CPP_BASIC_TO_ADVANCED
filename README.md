@@ -122,6 +122,10 @@ Caso eu queira que o valor dela seja retornado como 100.000... sem que eu mude e
  **Bom, são quatro operadores matemáticos que existem no C++, fora o operador de restos mas que não será falado nesse tópico.**
  
  <img src="https://imgur.com/60qQ41W.png">
+ 
+ Podemos utilizá-los de diversas formas em nosso código, mas como padrão, farei uma pequena calculadora para que seja representado de forma eficaz utilizando todos os operadores matemáticos ao mesmo tempo.
+ 
+ <img src="https://imgur.com/bG3YyAw.png">
 
 
 
