@@ -228,3 +228,23 @@ Resultado:<br>
 <img src="https://imgur.com/rc75hwY.png">
 	
 Observe que o valor que foi atribuído ao x, não é menor que o valor de y mas sim igual ao valor de y, portanto sendo verdadeiro, foi exibido a mensagem dentro da condição de "if".
+	
+<h1></h1>
+	
+Código (>=):<br>
+<img src="https://imgur.com/iEHXjX1.png">
+
+Resultado:<br>
+<img src="https://imgur.com/AHxQTZq.png">
+	
+O resultado exibido em nosso console está dizendo que x é maior ou igual a y, e de fato isso é verdadeiro. O valor que foi atribuído em x é maior do que y mas não é igual a y.
+	
+<h1></h1>
+	
+Código (!=):<br>
+<img src="https://imgur.com/nQCzGHw.png">
+
+Resultado:<br>
+<img src="https://imgur.com/a6rBsz7.png">
+	
+A resposta em geral foi dada como verdadeiro, pois o valor que está atribuído em x é diferente do valor que está atribuído em y, portanto o valor é verdadeiro e será exibido a mensagem dentro da condição de "if".
