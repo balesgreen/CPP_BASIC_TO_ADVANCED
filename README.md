@@ -139,4 +139,17 @@ Podemos fazer uma anatomia deste código e entender como ele funciona.
  
 ```cpp
  
+ int num;
+
+	num = 1;
+
+	if (num == 1) {
+		cout << "Num é igual a 1!" << endl;
+	}
+ 
 ```
+ 
+ * int num -> Está sendo declarado uma variável do tipo inteiro com nome de "num".
+ * num = 1 -> Está sendo declarado um determinado valor diretamente na variável "num".
+ * if (nuum == 1) -> Nessa função, estamos verificando se num é igual a 1. Se essa verificação for verdadeira (true), ele irá executar a mensagem, mas caso for falso (false), o programa será fechado.
+ 
