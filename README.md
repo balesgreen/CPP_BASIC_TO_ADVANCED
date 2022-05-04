@@ -218,3 +218,13 @@ Resultado:<br>
 <img src="https://imgur.com/vAiaujA.png">
 	
 Uh! Parece que o resultado foi "false", pois ele não retornou a mensagem dizendo que x é maior que y. O valor que foi atribuído em x é bem menor que o valor atribúido em y.
+	
+<h1></h1>
+
+Código (<=):<br>
+<img src="https://imgur.com/L3hgYok.png">
+	
+Resultado:<br>
+<img src="https://imgur.com/rc75hwY.png">
+	
+Observe que o valor que foi atribuído ao x, não é menor que o valor de y mas sim igual ao valor de y, portanto sendo verdadeiro, foi exibido a mensagem dentro da condição de "if".
