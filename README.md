@@ -175,6 +175,6 @@ A condição goto é bastante interessante quando se trata de fazer um loop em n
 	
 Adicionei uma biblioteca chamada cstdlib, pois ela possui a função de <code>system()</code> para que eu possa utilizar o comando cls em meu console, para que depois da reexeução do programa, não fique ocupando espaço em meu console com impressões de execuções passadas.
 
-Bom, a função goto entra diretamente logo depois das declarações de variáveis, chamado de <code>inicio:</code>. Na função de decisão if(), observa-se que há um comando chamado <code goto inicio; </code. Esse comando permite que ele volte até onde a minha primeira declaração foi feita, que no caso foi onde determinei a função <code>inicio:</code>.
+Bom, a função goto entra diretamente logo depois das declarações de variáveis, chamado de <code>inicio:</code>. Na função de decisão if(), observa-se que há um comando chamado <code> goto inicio; </code>. Esse comando permite que ele volte até onde a minha primeira declaração foi feita, que no caso foi onde determinei a função <code>inicio:</code>.
 	
 <img src="https://imgur.com/HroTE7S.gif">
