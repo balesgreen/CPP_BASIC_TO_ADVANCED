@@ -192,8 +192,19 @@ Bom, a função goto entra diretamente logo depois das declarações de variáve
  * <code> == (Igual a...) </code> Esse operador é utilizado para indicar igualdade a um valor. Caso 1 for igual a 1, então será "true", mas caso 1 não for igual a 1, então será "false".<br>
   
 Código (==):<br>
-<img src="https://imgur.com/FHBScuZ.png" >
+<img src="https://imgur.com/FHBScuZ.png">
  
 Resultado:<br>
 <img src="https://imgur.com/SaGptdG.png">
 
+Foi declarado que x é igual a y, pois o valor que foi atribuído na variável x é o mesmo valor que foi atribuído na variável y.
+
+<h1></h1>
+	
+Código (<):<br>
+<img src="https://imgur.com/IvDsjbg.png">
+	
+Resultado:<br>
+<img src="https://imgur.com/GNRUDOh.png">
+	
+Podemos observar aqui que o console imprimiu que x é menor que y, pois o valor que foi atribuído na variável x é menor que o valor que está atribuído na variável y.
