@@ -13,7 +13,7 @@
   * Tomada de decisão, IF/ELSE.
 
 
-  <h2>Entendendo a estrutura principal do programa C++</h2>
+  # Entendendo a estrutura principal do programa C++
   
   <img src="https://imgur.com/velYOuH.png">
   
