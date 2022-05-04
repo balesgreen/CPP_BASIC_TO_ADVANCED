@@ -149,7 +149,7 @@ if (num == 1) {
  
 ```
  
- * int num -> Está sendo declarado uma variável do tipo inteiro com nome de "num".
- * num = 1 -> Está sendo declarado um determinado valor diretamente na variável "num".
- * if (nuum == 1) -> Nessa função, estamos verificando se num é igual a 1. Se essa verificação for verdadeira (true), ele irá executar a mensagem, mas caso for falso (false), o programa será fechado.
+ * <code>int num</code> -> Está sendo declarado uma variável do tipo inteiro com nome de "num".
+ * <code>num = 1</code> -> Está sendo declarado um determinado valor diretamente na variável "num".
+ * <code>if (num == 1)</code> -> Nessa função, estamos verificando se num é igual a 1. Se essa verificação for verdadeira (true), ele irá executar a mensagem, mas caso for falso (false), o programa será fechado.
  
