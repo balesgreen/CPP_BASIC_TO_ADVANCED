@@ -10,6 +10,7 @@
   * Entendendo a estrutura principal do programa C++
   * Entendendo variáveis e declarações condicionais
   * Operadores matemáticos
+  * Tomada de decisão, IF/ELSE.
 
 
   <h2>Entendendo a estrutura principal do programa C++</h2>
@@ -127,3 +128,5 @@ Caso eu queira que o valor dela seja retornado como 100.000... sem que eu mude e
  
  Resultado:
  <img src="https://imgur.com/bG3YyAw.png">
+ 
+# Tomada de decisão IF/ELSE.
