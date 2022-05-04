@@ -139,13 +139,13 @@ Podemos fazer uma anatomia deste código e entender como ele funciona.
  
 ```cpp
  
- int num;
+int num;
 
-	num = 1;
+num = 1;
 
-	if (num == 1) {
-		cout << "Num é igual a 1!" << endl;
-	}
+if (num == 1) {
+	cout << "Num é igual a 1!" << endl;
+}
  
 ```
  
