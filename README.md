@@ -168,3 +168,7 @@ Pode-se observar que a mensagem que foi exibida, é a que está dentro da condi�
  
 	
 <h4>Comando Goto</h4>
+
+A condição goto é bastante interessante quando se trata de fazer um loop em nosso programa. O que acontece, é que essa função nos permite reexecutar o nosso programa sem precisarmos executar um comando para que o nosso programa seja executado. Criei um pequeno programa de calculos de adição e mostrarei como exemplo para que vocês possam compreender de uma forma mais simples.
+	
+<img src="https://imgur.com/XkIwOA6.png">
