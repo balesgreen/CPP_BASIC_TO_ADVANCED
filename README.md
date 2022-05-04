@@ -130,3 +130,7 @@ Caso eu queira que o valor dela seja retornado como 100.000... sem que eu mude e
  <img src="https://imgur.com/bG3YyAw.png">
  
 # Tomada de decisão IF/ELSE.
+ 
+ Bom, chegamos finalmente na parte onde se trabalha toda lógica de decisão em um programa de computador, independente da linguagem de programação, sempre existirá funções atribuídas a tomadas de decisões. Vejamos abaixo o código representando sobre este conteúdo.
+ 
+ <img src="https://imgur.com/QzpaXEf.png">
