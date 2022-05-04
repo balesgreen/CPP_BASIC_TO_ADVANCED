@@ -10,7 +10,7 @@
   * Entendendo a estrutura principal do programa C++
   * Entendendo variáveis e declarações condicionais
   * Operadores matemáticos
-  * Tomada de decisão, IF/ELSE.
+  * Tomada de decisão, IF/ELSE/GOTO.
 
 
   # Entendendo a estrutura principal do programa C++
@@ -129,7 +129,7 @@ Caso eu queira que o valor dela seja retornado como 100.000... sem que eu mude e
  Resultado:
  <img src="https://imgur.com/bG3YyAw.png">
  
-# Tomada de decisão IF/ELSE.
+# Tomada de decisão IF/ELSE e comando GOTO.
  
  Bom, chegamos finalmente na parte onde se trabalha toda lógica de decisão em um programa de computador, independente da linguagem de programação, sempre existirá funções atribuídas a tomadas de decisões. Vejamos abaixo o código representando sobre este conteúdo.
  
@@ -152,4 +152,17 @@ if (num == 1) {
  * <code>int num</code> -> Está sendo declarado uma variável do tipo inteiro com nome de "num".
  * <code>num = 1</code> -> Está sendo declarado um determinado valor diretamente na variável "num".
  * <code>if (num == 1)</code> -> Nessa função, estamos verificando se num é igual a 1. Se essa verificação for verdadeira (true), ele irá executar a mensagem, mas caso for falso (false), o programa será fechado.
+	
+Execução:<br>
+<img src="https://imgur.com/trtdeRU.png">
+	
+Bom, podemos observar que a mensagem foi exibida e por isso temos a certeza de que o valor de num era verdadeiro, caso contrário nada seria executado. Mas onde o else entraria nessa história? O ELSE é nada mais que uma função de (senão). Observe na imagem abaixo o else sendo utilizado.
+	
+<img src="https://imgur.com/XtXtJVK.png">
+	
+Observe que o valor de num agora foi alocado como 2, ou seja, um valor totalmente diferente do que está definido na nossa condição if(num == 1). Bom, vamos executar o nosso programa e vamos observar o que será feito.
+	
+<img src="https://imgur.com/NvBrznm.png">
+	
+Pode-se observar que a mensagem que foi exibida, é a que está dentro da condição else, pois caso a condição else não existisse, nada seria executado e simplesmente o programa seria parado. O que entende-se sobre isso, é que o if e else são duas condições com funcionalidades diferentes porém sempre trabalhando juntas. Se (if) a minha condição for verdadeira, execute o que há dentro de "if", senão (else) for verdadeira, execute o que há dentro de "else".
  
