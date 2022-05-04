@@ -172,3 +172,7 @@ Pode-se observar que a mensagem que foi exibida, é a que está dentro da condi�
 A condição goto é bastante interessante quando se trata de fazer um loop em nosso programa. O que acontece, é que essa função nos permite reexecutar o nosso programa sem precisarmos executar um comando para que o nosso programa seja executado. Criei um pequeno programa de calculos de adição e mostrarei como exemplo para que vocês possam compreender de uma forma mais simples.
 	
 <img src="https://imgur.com/XkIwOA6.png">
+	
+Adicionei uma biblioteca chamada cstdlib, pois ela possui a função de <code>system()</code> para que eu possa utilizar o comando cls em meu console, para que depois da reexeução do programa, não fique ocupando espaço em meu console com impressões de execuções passadas.
+
+Bom, a função goto entra diretamente logo depois das declarações de variáveis, chamado de <code>inicio:</code>. Na função de decisão if(), observa-se que há um comando chamado <code goto inicio; </code. Esse comando permite que ele volte até onde a minha primeira declaração foi feita, que no caso foi onde determinei a função <code>inicio:</code>.
