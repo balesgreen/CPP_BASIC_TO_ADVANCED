@@ -10,7 +10,8 @@
   * Entendendo a estrutura principal do programa C++
   * Entendendo variáveis e declarações condicionais
   * Operadores matemáticos
-  * Tomada de decisão, IF/ELSE/GOTO.
+  * Tomada de decisão, IF/ELSE e comando GOTO.
+  * Operadores lógicos
 
 
   # Entendendo a estrutura principal do programa C++
@@ -178,3 +179,21 @@ Adicionei uma biblioteca chamada cstdlib, pois ela possui a função de <code>sy
 Bom, a função goto entra diretamente logo depois das declarações de variáveis, chamado de <code>inicio:</code>. Na função de decisão if(), observa-se que há um comando chamado <code> goto inicio;</code>. Esse comando permite que ele volte até onde a minha primeira declaração foi feita, que no caso foi onde determinei a função <code>inicio:</code>.
 	
 <img src="https://imgur.com/HroTE7S.gif">
+	
+# Operadores lógicos
+
+ Os operadores lógicos ou operadores aritméticos são elementos que trabalham com operações juntos das variáveis. Os operadores lógicos sempre trabalharão com o corportamento de true (1) ou false (0). Representarei abaixo em códigos e mostrarei as diversas formas de se utilizar esses operadores. Antes disso, vamos conhecer quais são e que funções eles atribuem ao nosso código.
+ 
+ * <code> > (Maior que...) </code> Esse operador é utilizado para indicar que se determinado número for maior que outro, então será "true", mas caso for menor, será "false".<br>
+ * <code> < (Menor que...) </code> Esse operador é utilizado para indicar que se um determinado número for menor que outro, então será "true", mas caso for maior, será "false".<br>
+ * <code> != (Diferente de) </code> Esse operador é utilizado para indicar diferença entre dois valores. Se determinado valor for diferente de outro valor, então será "true", mas caso for igual, será "false".<br>
+ * <code> >= (Maior ou igual a...) </code> Esse operador é utilizado para indicar que se um número for maior ou igual a outro número, então será "true", mas caso for menor ou não igual, será "false".<br>
+ * <code> <= (Menor ou igual a...) </code> Esse operador é utilizado para indicar que se um número for menor ou igual a outro número, então será "true", mas caso for maior ou não igual, será "false".<br>
+ * <code> == (Igual a...) </code> Esse operador é utilizado para indicar igualdade a um valor. Caso 1 for igual a 1, então será "true", mas caso 1 não for igual a 1, então será "false".<br>
+  
+Código (==):<br>
+<img src="https://imgur.com/FHBScuZ.png" >
+ 
+Resultado:<br>
+<img src="https://imgur.com/SaGptdG.png">
+
