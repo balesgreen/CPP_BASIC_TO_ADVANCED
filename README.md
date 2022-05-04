@@ -213,3 +213,8 @@ Podemos observar aqui que o console imprimiu que x é menor que y, pois o valor 
 	
 Código (>):<br>
 <img src="https://imgur.com/MsnUdUD.png">
+	
+Resultado:<br>
+<img src="https://imgur.com/vAiaujA.png">
+	
+Uh! Parece que o resultado foi "false", pois ele não retornou a mensagem dizendo que x é maior que y. O valor que foi atribuído em x é bem menor que o valor atribúido em y.
