@@ -67,7 +67,7 @@ O resultado de exeução do nosso programa é:
 <img src="https://imgur.com/6yvFhQz.png">
 
 
-  <h2>Entendendo variáveis e declarações condicionais</h2>
+  # Entendendo variáveis e declarações condicionais
   
   <img src="https://imgur.com/VHhYxNl.png" />
   
@@ -99,7 +99,7 @@ O resultado de exeução do nosso programa é:
 
 Aqui nós estamos imprimindo em nosso terminal/console todas as informações que foram atribuídas as nossas variáveis.
 
-<h3>Técnicas utilizando o casting em C++</h3>
+# Técnicas utilizando o casting em C++
 
 Você pode utilizar algumas formas de mudar valores usando o método de casting. Bom, mas o que seria o Cast? O Cast é basicamente uma função que nos permite mudar valores de variáveis sem que precisamos mudar o seu tipo em seu escopo.
 
