@@ -134,3 +134,9 @@ Caso eu queira que o valor dela seja retornado como 100.000... sem que eu mude e
  Bom, chegamos finalmente na parte onde se trabalha toda lógica de decisão em um programa de computador, independente da linguagem de programação, sempre existirá funções atribuídas a tomadas de decisões. Vejamos abaixo o código representando sobre este conteúdo.
  
  <img src="https://imgur.com/QzpaXEf.png">
+
+Podemos fazer uma anatomia deste código e entender como ele funciona.
+ 
+```cpp
+ 
+```
