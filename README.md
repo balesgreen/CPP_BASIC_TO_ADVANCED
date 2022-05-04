@@ -166,3 +166,5 @@ Observe que o valor de num agora foi alocado como 2, ou seja, um valor totalment
 	
 Pode-se observar que a mensagem que foi exibida, é a que está dentro da condição else, pois caso a condição else não existisse, nada seria executado e simplesmente o programa seria parado. O que entende-se sobre isso, é que o if e else são duas condições com funcionalidades diferentes porém sempre trabalhando juntas. Se (<b>if</b>) a minha condição for verdadeira, execute o que há dentro de "if", senão (<b>else</b>) for verdadeira, execute o que há dentro de "else".
  
+	
+	<h4>Comando Goto</h4>
