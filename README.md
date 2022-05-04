@@ -208,3 +208,8 @@ Resultado:<br>
 <img src="https://imgur.com/GNRUDOh.png">
 	
 Podemos observar aqui que o console imprimiu que x é menor que y, pois o valor que foi atribuído na variável x é menor que o valor que está atribuído na variável y.
+	
+<h1></h1>
+	
+Código (>):<br>
+<img src="https://imgur.com/MsnUdUD.png">
