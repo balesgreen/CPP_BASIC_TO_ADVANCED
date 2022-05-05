@@ -260,3 +260,7 @@ Vamos entender o código abaixo: <br>
 Bom, podemos observar que temos uma função estranha em nosso código e é exatamente sobre essa função que buscaremos entender.
 
 * <code>(calc >= 50)</code> -> Nessa função estamos atribuindo a nossa variável calc e dizendo que se o valor que foi atribuído a essa variável for maior ou igual a 50, nossa resposta será verdadeiro (true) mas caso contrário, será falso (false).
+
+* <code>res = "boa nota" : res = "nota ruim"</code> -> Essa função aqui trabalha da seguinte forma: (verdadeiro | falso). Se a minha variável for maior ou igual a 50, então a primeira função será executada, caso a minha variável for menor que 50, então a segunda função será executada.
+	
+Existe diversas maneiras de se utilizar o Operador Ternário, mas essa é uma das formas mais comuns de se utilizar esse operador. Vale ressaltar que o Operador Ternário é mais rápido no quesito de exeução em comparação com a função de controle "if". Para máquinas mais fracas o Operador Ternário é a melhor função a ser utilizada.
