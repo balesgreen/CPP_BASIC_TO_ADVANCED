@@ -249,3 +249,10 @@ Resultado:<br>
 <img src="https://imgur.com/a6rBsz7.png">
 	
 A resposta em geral foi dada como verdadeiro, pois o valor que está atribuído em x é diferente do valor que está atribuído em y, portanto o valor é verdadeiro e será exibido a mensagem dentro da condição de "if".
+	
+# Operador Ternário
+	
+O Operador Ternário é também conhecido como "if ternário", pois a sua forma de trabalhar é bastante semelhante com o "if", mas algumas coisas são diferentes, como por exemplo: O Operador Ternário verifica uma condição e retorna um dentre esses dois valores que foram pré-definidos em sua estrutura. Talvez seja um pouco difícil de entender o seu funcionamento mas na prática tudo se torna flores. Então vamos lá!
+	
+Vamos entender o código abaixo: <br>
+<img src="https://imgur.com/WazC9Xg.png">
