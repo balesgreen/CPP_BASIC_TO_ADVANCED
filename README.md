@@ -256,3 +256,7 @@ O Operador Ternário é também conhecido como "if ternário", pois a sua forma 
 	
 Vamos entender o código abaixo: <br>
 <img src="https://imgur.com/WazC9Xg.png">
+	
+Bom, podemos observar que temos uma função estranha em nosso código e é exatamente sobre essa função que buscaremos entender.
+	* <code>(calc >= 50)</code> -> Nessa função estamos atribuindo a nossa variável calc e dizendo que se o valor que foi atribuído a essa variável for maior ou igual a 50, nossa resposta será verdadeiro (true) mas caso contrário, será falso (false).
+	
