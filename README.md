@@ -12,6 +12,7 @@
   * Operadores matemáticos
   * Tomada de decisão, IF/ELSE e comando GOTO.
   * Operadores lógicos
+  * Operador Ternário
 
 
   # Entendendo a estrutura principal do programa C++
